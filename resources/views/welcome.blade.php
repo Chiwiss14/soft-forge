@@ -22,7 +22,6 @@
         </div>
 
         <!-- Second Section -->
-        <!-- Second Section -->
         <section class="bg-gray-900 py-12">
             <div class="max-w-7xl mx-auto px-6">
 

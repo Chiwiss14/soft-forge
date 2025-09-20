@@ -56,10 +56,8 @@
     @endisset
 
     {{-- MAIN (constrained content) --}}
-    <main class="py-10">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <main>
             {{ $slot }}
-        </div>
     </main>
 
    <footer class="bg-black text-gray-400 py-12 mt-10 rounded-t-lg shadow-inner">
